@@ -3,10 +3,12 @@ body{
     font-style: italic;
     justify-content: center;
 }
+
 h1{
     font-size: medium;
     color:darkgreen;
 }
+
 .imagem{
     width: 20px;
     padding: 50px;
