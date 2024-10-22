@@ -2,6 +2,7 @@ body{
     background-color: cornsilk;
     font-style: italic;
     justify-content: center;
+    text-align: center;
 }
 
 h1{
@@ -16,6 +17,3 @@ h1{
     margin: 150px;
 }
 
-nav a{
-    justify-content: center;
-}
